@@ -1,0 +1,13 @@
+body{
+    background: rgb(143, 143, 219);}
+
+form{
+        margin: 0 auto;
+        background: slateblue;
+        width: 440px;
+        padding: 20px;
+        height: 350px;
+        border-radius: 20px 20px;
+    }
+
+
