@@ -1,0 +1,13 @@
+
+body{
+    
+    background: url(images/pexels-photo-733857.webp);
+
+
+}
+ul li a{
+    font-size: large;
+    border-radius: 20px 20px;
+    color: black;
+    
+}

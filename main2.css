@@ -1,0 +1,16 @@
+body{
+    background: url(images/pexels-sonny-sixteen-9229550.jpg);
+}
+form{
+        margin: 0 auto;
+        background: rgb(227, 225, 244);
+        width: 440px;
+        padding: 20px;
+        height: 350px;
+        border-radius: 20px 20px;
+        align-items: center;
+        justify-content: center;
+        
+    }
+
+
