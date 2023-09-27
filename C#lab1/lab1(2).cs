@@ -5,6 +5,7 @@
 //зробити через pop!
 using System;
 using System.Collections.Generic;
+
 class Program
 {
     static void Main()
@@ -21,30 +22,24 @@ class Program
             stack.Push(element);
         }
 
-        /*Random random = new Random();
-        for (int i = 0; i < n; i++)
-        {
-            int randomNumber = random.Next(1, 101); 
-            stack.Push(randomNumber);
-        }*/
-
         Console.WriteLine("Елементи стеку:");
-        foreach (int item in stack)
-        {
-            Console.Write(item + " ");
-        }
-        Console.WriteLine();
 
+        // Calculate the sum and count of numbers divisible by 5
         int sum = 0;
         int count = 0;
-        foreach (int item in stack)
+
+        while (stack.Count > 0)
         {
+            int item = stack.Pop();
+            Console.Write(item + " ");
+
             if (item % 5 == 0)
             {
                 sum += item;
                 count++;
             }
         }
+        Console.WriteLine();
 
         if (count > 0)
         {
@@ -56,7 +51,4 @@ class Program
             Console.WriteLine("Чисел, що дiляться без остачi на 5, в стеку немає.");
         }
     }
-
-
-
 }
