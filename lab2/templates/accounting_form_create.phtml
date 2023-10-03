@@ -1,0 +1,47 @@
+<br />
+<hr> <!-- Горизонтальний розділювач -->
+<label for="text" style="font-weight: bold;">Form for adding new account</label>
+<br />
+<br />
+<form style="display: flex; flex-direction: column; width: 300px;" method="POST">
+
+    <!-- Приховане поле для передачі ID -->
+    <input type="hidden" name="edit_id" >
+
+    <div style="display: flex; width: 300px; justify-content: space-between; margin-bottom: 4px">
+        <label for="code">Code</label>
+        <input id="code" name="code" type="number" min="1" required="true">
+    </div>
+
+    <div style="display: flex; width: 300px; justify-content: space-between; margin-bottom: 4px">
+        <label for="fullName" style="margin-right: 12px;">FullName</label>
+        <input id="fullName" name="fullName" type="text" minlength="1" required="true">
+    </div>
+
+    <div style="display: flex; width: 300px; justify-content: space-between; margin-bottom: 4px">
+
+        <label for="position" style="margin-right: 20px;">Position</label>
+        <input id="position" name="position" type="text" minlength="1" required="true">
+    </div>
+    <div style="display: flex; width: 300px; justify-content: space-between; margin-bottom: 4px">
+
+        <label for="salary" style="margin-right: 31px;">Salary</label>
+        <input id="salary" name="salary" type="number"  min="0" required="true">
+    </div>
+    <div style="display: flex; width: 300px; justify-content: space-between; margin-bottom: 4px">
+
+        <label for="child" style="margin-right: 19px;">Child</label>
+        <input id="child" name="child" type="number" min="0" required="true">
+    </div>
+    <div style="display: flex; width: 300px; justify-content: space-between; margin-bottom: 4px">
+
+        <label for="experience">Experience</label>
+        <input id="experience" name="experience" type="text" minlength="1" required="true">
+    </div>
+
+    <button name="add_account" type="submit" style="margin-left: 190px; font-weight: bold">Add</button>
+
+
+
+</form>
+<hr> <!-- Горизонтальний розділювач -->

@@ -1,0 +1,130 @@
+<?php
+/** @var array $accountingList */
+$accountingList;
+
+// Ініціалізація змінних для полів форми
+$editCode = "";
+$editFullName = "";
+$editPosition = "";
+$editSalary = "";
+$editChild = "";
+$editExperience = "";
+
+// ID, яке буде передано з таблиці в форму
+$idToEdit = "";
+
+if (isset($_POST['edit'])) {
+    $idToEdit = $_POST['edit'];
+
+    // Найдемо запис в масиві $accounting з відповідним кодом
+    foreach ($accountingList as $account) {
+        if ($account['code'] == $idToEdit) {
+            $editCode = $account['code'];
+            $editFullName = $account['fullName'];
+            $editPosition = $account['position'];
+            $editSalary = $account['salary'];
+            $editChild = $account['child'];
+            $editExperience = $account['experience'];
+            break;
+        }
+    }
+}
+
+
+
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Account</title>
+</head>
+<body>
+<hr> <!-- Горизонтальний роздільник -->
+<label for="text" style="font-weight: bold;">Form for editing account</label>
+<br/>
+<br/>
+
+<form style="display: flex; flex-direction: column; width: 300px;" method="POST">
+
+    <!-- Приховане поле для передачі ID -->
+    <input type="hidden" name="edit_id" value="<?= $idToEdit; ?>">
+
+    <div style="display: flex; width: 300px; justify-content: space-between; margin-bottom: 4px">
+        <label for="code">Code</label>
+        <input id="code" name="code" type="text" value="<?= $editCode; ?>">
+    </div>
+
+    <div style="display: flex; width: 300px; justify-content: space-between; margin-bottom: 4px">
+        <label for="fullName" style="margin-right: 12px;">FullName</label>
+        <input id="fullName" name="fullName" type="text" value="<?= $editFullName; ?>">
+    </div>
+
+    <div style="display: flex; width: 300px; justify-content: space-between; margin-bottom: 4px">
+
+        <label for="position" style="margin-right: 20px;">Position</label>
+        <input id="position" name="position" type="text" value="<?= $editPosition; ?>">
+    </div>
+    <div style="display: flex; width: 300px; justify-content: space-between; margin-bottom: 4px">
+
+        <label for="salary" style="margin-right: 31px;">Salary</label>
+        <input id="salary" name="salary" type="text" value="<?= $editSalary; ?>">
+    </div>
+    <div style="display: flex; width: 300px; justify-content: space-between; margin-bottom: 4px">
+
+        <label for="child" style="margin-right: 19px;">Child</label>
+        <input id="child" name="child" type="text" value="<?= $editChild; ?>">
+    </div>
+    <div style="display: flex; width: 300px; justify-content: space-between; margin-bottom: 4px">
+
+        <label for="experience">Experience</label>
+        <input id="experience" name="experience" type="text" value="<?= $editExperience; ?>">
+    </div>
+
+    <input type="hidden" name="edit" value="<?= $account['code']; ?>">
+    <button type="submit" name="edit_account" style="color: aqua; font-weight: bold; width: 100px; align-self: flex-end;">Add edit
+    </button>
+
+</form>
+
+<hr> <!-- Горизонтальний роздільник -->
+
+<label for="text" style="font-weight: bold;">Accounting form</label>
+<a href="">Add</a>
+<table border="2">
+    <tr>
+
+        <th>Code</th>
+        <th>FullName</th>
+        <th>Position</th>
+        <th>Salary</th>
+        <th>Child</th>
+        <th>Experience</th>
+        <th>Action</th>
+    </tr>
+    <?php
+
+    foreach ($accountingList as $account): ?>
+        <tr>
+
+
+            <td><?= $account['code']; ?></td>
+            <td><?= $account['fullName']; ?></td>
+            <td><?= $account['position']; ?></td>
+            <td><?= $account['salary']; ?></td>
+            <td><?= $account['child']; ?></td>
+            <td><?= $account['experience']; ?></td>
+            <td>
+                <form method="POST">
+                    <!-- Передаємо ID через кнопку Edit -->
+                    <input type="hidden" name="edit" value="<?= $account['code']; ?>">
+                    <button type="submit" id="editButton<?= $account['code']; ?>" style="color: blueviolet">Edit
+                    </button>
+                </form>
+            </td>
+        </tr>
+    <?php endforeach; ?>
+</table>
+</body>
+</html>
