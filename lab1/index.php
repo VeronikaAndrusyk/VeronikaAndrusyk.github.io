@@ -21,7 +21,7 @@ $accounting = [
 ];
 
 $accountingList = [
-    1 =>[
+    [
         'code' => 1,
         'fullName' => 'John Smith Jr.',
         'position' => 'male',
@@ -29,7 +29,7 @@ $accountingList = [
         'child' => 1,
         'experience' => 4
     ],
-    2 =>[
+    [
         'code' => 2,
         'fullName' => 'Emily Johnson',
         'position' => 'female',
@@ -37,7 +37,7 @@ $accountingList = [
         'child' => 2,
         'experience' => 2
     ],
-    3=>[
+    [
         'code' => 3,
         'fullName' => 'David Wilson III',
         'position' => 'male',
@@ -45,7 +45,7 @@ $accountingList = [
         'child' => 1,
         'experience' => 4
     ],
-    4 =>[
+    [
         'code' => 4,
         'fullName' => 'Sarah Davis',
         'position' => 'female',
@@ -53,7 +53,7 @@ $accountingList = [
         'child' => 3,
         'experience' => 6
     ],
-    5 =>[
+    [
         'code' => 5,
         'fullName' => 'Michael Brown Sr.',
         'position' => 'male',
