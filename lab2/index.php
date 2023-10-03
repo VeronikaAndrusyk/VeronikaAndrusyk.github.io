@@ -9,10 +9,15 @@ $accounting = [
     'experience' => null
 ];
 
-$json_data = file_get_contents("data.json"); // отримуєм масив з файла коли зп
+function getData()
+{
+    $json_data = file_get_contents("data.json"); // отримуєм масив з файла коли зп
 
-$accountingList = json_decode($json_data, true); // перетворю рядок на масив і записує в $accountingList
+    $accountingList = json_decode($json_data, true); // перетворю рядок на масив і записує в $accountingList
 
+}
+
+getData();
 
 //$accountingList = [
 //    [
@@ -96,8 +101,12 @@ if (isset($_POST['edit_account'])) {
     }
 }
 
-$json = json_encode($accountingList);
-file_put_contents("data.json",$json);
+function saveData($accountingList)
+{
+    $json = json_encode($accountingList);
+    file_put_contents("data.json",$json);
+}
+saveData($accountingList);
 
 $accountingList = array_filter($accountingList, function ($element) {
     $return_flag = true;
