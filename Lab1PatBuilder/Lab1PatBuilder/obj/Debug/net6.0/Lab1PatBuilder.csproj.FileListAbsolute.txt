@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\bin\Debug\net6.0\Lab1PatBuilder.exe
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\bin\Debug\net6.0\Lab1PatBuilder.deps.json
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\bin\Debug\net6.0\Lab1PatBuilder.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\bin\Debug\net6.0\Lab1PatBuilder.dll
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\bin\Debug\net6.0\Lab1PatBuilder.pdb
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\obj\Debug\net6.0\Lab1PatBuilder.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\obj\Debug\net6.0\Lab1PatBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\obj\Debug\net6.0\Lab1PatBuilder.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\obj\Debug\net6.0\Lab1PatBuilder.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\obj\Debug\net6.0\Lab1PatBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\obj\Debug\net6.0\Lab1PatBuilder.dll
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\obj\Debug\net6.0\refint\Lab1PatBuilder.dll
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\obj\Debug\net6.0\Lab1PatBuilder.pdb
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\obj\Debug\net6.0\Lab1PatBuilder.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Lab1PatBuilder\Lab1PatBuilder\obj\Debug\net6.0\ref\Lab1PatBuilder.dll
