@@ -1,0 +1,12 @@
+<Pasaghyr>
+  <Passenger LastName="Johnson" Destination="New York" BaggageCount="2" TotalWeight="20,5" />
+  <Passenger LastName="Smith" Destination="Los Angeles" BaggageCount="1" TotalWeight="15" />
+  <Passenger LastName="Williams" Destination="Chicago" BaggageCount="3" TotalWeight="45" />
+  <Passenger LastName="Jones" Destination="New York" BaggageCount="2" TotalWeight="25" />
+  <Passenger LastName="Brown" Destination="Miami" BaggageCount="1" TotalWeight="18" />
+  <Passenger LastName="Davis" Destination="San Francisco" BaggageCount="2" TotalWeight="22,5" />
+  <Passenger LastName="Miller" Destination="New York" BaggageCount="1" TotalWeight="14" />
+  <Passenger LastName="Wilson" Destination="Philadelphia" BaggageCount="3" TotalWeight="40" />
+  <Passenger LastName="Moore" Destination="New York" BaggageCount="2" TotalWeight="23,5" />
+  <Passenger LastName="Taylor" Destination="Seattle" BaggageCount="1" TotalWeight="16" />
+</Pasaghyr>

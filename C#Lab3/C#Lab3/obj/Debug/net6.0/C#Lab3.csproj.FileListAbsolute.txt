@@ -1,0 +1,30 @@
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\bin\Debug\net6.0\C#Lab3.exe
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\bin\Debug\net6.0\C#Lab3.deps.json
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\bin\Debug\net6.0\C#Lab3.runtimeconfig.json
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\bin\Debug\net6.0\C#Lab3.dll
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\bin\Debug\net6.0\C#Lab3.pdb
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.AssemblyInfo.cs
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.dll
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\obj\Debug\net6.0\refint\C#Lab3.dll
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.pdb
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.genruntimeconfig.cache
+C:\Users\Asus\source\repos\C#Lab3\C#Lab3\obj\Debug\net6.0\ref\C#Lab3.dll
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\bin\Debug\net6.0\C#Lab3.exe
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\bin\Debug\net6.0\C#Lab3.deps.json
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\bin\Debug\net6.0\C#Lab3.runtimeconfig.json
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\bin\Debug\net6.0\C#Lab3.dll
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\bin\Debug\net6.0\C#Lab3.pdb
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.dll
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\obj\Debug\net6.0\refint\C#Lab3.dll
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.pdb
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\obj\Debug\net6.0\C#Lab3.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Робочий стіл\C#\C#Lab3\C#Lab3\obj\Debug\net6.0\ref\C#Lab3.dll
