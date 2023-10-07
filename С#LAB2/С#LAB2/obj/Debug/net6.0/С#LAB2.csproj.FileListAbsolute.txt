@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\bin\Debug\net6.0\С#LAB2.exe
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\bin\Debug\net6.0\С#LAB2.deps.json
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\bin\Debug\net6.0\С#LAB2.runtimeconfig.json
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\bin\Debug\net6.0\С#LAB2.dll
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\bin\Debug\net6.0\С#LAB2.pdb
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\obj\Debug\net6.0\С#LAB2.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\obj\Debug\net6.0\С#LAB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\obj\Debug\net6.0\С#LAB2.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\obj\Debug\net6.0\С#LAB2.AssemblyInfo.cs
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\obj\Debug\net6.0\С#LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\obj\Debug\net6.0\С#LAB2.dll
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\obj\Debug\net6.0\refint\С#LAB2.dll
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\obj\Debug\net6.0\С#LAB2.pdb
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\obj\Debug\net6.0\С#LAB2.genruntimeconfig.cache
+C:\Users\Asus\source\repos\С#LAB2\С#LAB2\obj\Debug\net6.0\ref\С#LAB2.dll
