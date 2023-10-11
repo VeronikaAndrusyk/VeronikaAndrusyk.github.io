@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\obj\Debug\net6.0\templatesLab2.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\obj\Debug\net6.0\templatesLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\obj\Debug\net6.0\templatesLab2.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\obj\Debug\net6.0\templatesLab2.AssemblyInfo.cs
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\obj\Debug\net6.0\templatesLab2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\bin\Debug\net6.0\templatesLab2.exe
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\bin\Debug\net6.0\templatesLab2.deps.json
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\bin\Debug\net6.0\templatesLab2.runtimeconfig.json
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\bin\Debug\net6.0\templatesLab2.dll
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\bin\Debug\net6.0\templatesLab2.pdb
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\obj\Debug\net6.0\templatesLab2.dll
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\obj\Debug\net6.0\refint\templatesLab2.dll
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\obj\Debug\net6.0\templatesLab2.pdb
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\obj\Debug\net6.0\templatesLab2.genruntimeconfig.cache
+C:\Users\Asus\source\repos\templatesLab2\templatesLab2\obj\Debug\net6.0\ref\templatesLab2.dll
