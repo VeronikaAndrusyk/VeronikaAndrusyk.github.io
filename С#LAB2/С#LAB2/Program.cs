@@ -122,7 +122,7 @@ public class Program
                     .Average(rating => rating.Module1Score))
             .Select(student => student.LastName);
 
-        Console.WriteLine("Студенти з найвищим середнім рейтингом за перший модуль у предметах Вища математика, Дискретка або Програмування:");
+        Console.WriteLine("Студенти з найвищим середнім рейтингом за перший модуль у предметах Вища математика, Programming, або Diskretka:");
         foreach (var lastName in topStudents)
         {
             Console.WriteLine($"Прiзвище: {lastName}");
