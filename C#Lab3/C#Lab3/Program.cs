@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Xml;
 
 class Program
@@ -28,7 +28,7 @@ class Program
                     Console.WriteLine($"Surname: {lastName}, Destination: {destination}, Number of luggage seats: {baggageCount}, Total weight of luggage: {totalWeight} kg");
                 }
 
-                Console.Write("Enter the destination to calculate total luggage information: ");
+                Console.Write("Enter the first destination to calculate total luggage information: ");
                 string inputDestination = Console.ReadLine();
 
                 int totalLuggageSeats = 0;
@@ -50,6 +50,24 @@ class Program
 
                 Console.WriteLine($"Total number of luggage seats to {inputDestination}: {totalLuggageSeats}");
                 Console.WriteLine($"Total luggage weight to {inputDestination}: {totalLuggageWeight} kg");
+
+                Console.Write("Enter the second destination to calculate total luggage information: ");
+                string inputDestination1 = Console.ReadLine();
+
+                double totalLuggageWeight1 = 0.0;
+
+                foreach (XmlNode passenger in passengers)
+                {
+                    string destination1 = passenger.Attributes["Destination"].Value;
+
+                    if (destination1.Equals(inputDestination1, StringComparison.OrdinalIgnoreCase))
+                    {
+                        double luggageWeight = double.Parse(passenger.Attributes["TotalWeight"].Value);
+                        totalLuggageWeight1 += luggageWeight;
+                    }
+                }
+
+                Console.WriteLine($"Total luggage weight to {inputDestination1}: {totalLuggageWeight1} kg");
             }
             else
             {
@@ -62,4 +80,3 @@ class Program
         }
     }
 }
-
