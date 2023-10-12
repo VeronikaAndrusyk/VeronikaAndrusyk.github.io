@@ -1,6 +1,29 @@
 using System;
 using System.Xml;
 
+*XmlDocument xmlDoc = new XmlDocument();
+
+// кореневий елемент
+XmlElement root = xmlDoc.CreateElement("Pasaghyr");//Тут створюється кореневий елемент з ім'ям "Pasaghyr"
+xmlDoc.AppendChild(root);// як кореневий елемент документу.
+
+// дані
+AddPassenger(xmlDoc, root, "Johnson", "New York", 2, 20.5);
+AddPassenger(xmlDoc, root, "Smith", "Los Angeles", 1, 15.0);
+AddPassenger(xmlDoc, root, "Williams", "Chicago", 3, 45.0);
+AddPassenger(xmlDoc, root, "Jones", "New York", 2, 25.0);
+AddPassenger(xmlDoc, root, "Brown", "Miami", 1, 18.0);
+AddPassenger(xmlDoc, root, "Davis", "Los Angeles", 2, 22.5);
+AddPassenger(xmlDoc, root, "Miller", "New York", 1, 14.0);
+AddPassenger(xmlDoc, root, "Wilson", "Los Angeles", 3, 40.0);
+AddPassenger(xmlDoc, root, "Moore", "New York", 2, 23.5);
+AddPassenger(xmlDoc, root, "Taylor", "Los Angeles", 1, 16.0);
+
+// зберіга. XML-документ у файл
+xmlDoc.Save("Pasaghyr.xml");
+
+Console.WriteLine("Pasaghyr.xml file created successfully.");*/
+
 class Program
 {
     static void Main()
