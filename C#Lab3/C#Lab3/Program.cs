@@ -8,7 +8,7 @@ class Program
         XmlDocument xmlDoc = new XmlDocument();
         try
         {
-            // Load the XML document from the file
+            // завантаження з файлу
             xmlDoc.Load("Pasaghyr.xml");
 
             XmlElement root = xmlDoc.DocumentElement;
