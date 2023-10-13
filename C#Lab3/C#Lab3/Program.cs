@@ -1,7 +1,7 @@
 using System;
 using System.Xml;
 
-*XmlDocument xmlDoc = new XmlDocument();
+//*XmlDocument xmlDoc = new XmlDocument();
 
 // кореневий елемент
 //XmlElement root = xmlDoc.CreateElement("Pasaghyr");//Тут створюється кореневий елемент з ім'ям "Pasaghyr"
