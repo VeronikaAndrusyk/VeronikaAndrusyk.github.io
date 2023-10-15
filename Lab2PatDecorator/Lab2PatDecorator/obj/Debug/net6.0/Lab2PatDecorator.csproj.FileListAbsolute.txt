@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\bin\Debug\net6.0\Lab2PatDecorator.exe
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\bin\Debug\net6.0\Lab2PatDecorator.deps.json
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\bin\Debug\net6.0\Lab2PatDecorator.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\bin\Debug\net6.0\Lab2PatDecorator.dll
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\bin\Debug\net6.0\Lab2PatDecorator.pdb
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\obj\Debug\net6.0\Lab2PatDecorator.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\obj\Debug\net6.0\Lab2PatDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\obj\Debug\net6.0\Lab2PatDecorator.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\obj\Debug\net6.0\Lab2PatDecorator.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\obj\Debug\net6.0\Lab2PatDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\obj\Debug\net6.0\Lab2PatDecorator.dll
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\obj\Debug\net6.0\refint\Lab2PatDecorator.dll
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\obj\Debug\net6.0\Lab2PatDecorator.pdb
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\obj\Debug\net6.0\Lab2PatDecorator.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Lab2PatDecorator\Lab2PatDecorator\obj\Debug\net6.0\ref\Lab2PatDecorator.dll
