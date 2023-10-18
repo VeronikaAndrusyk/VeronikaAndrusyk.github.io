@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\modulC#\modulC#\bin\Debug\net6.0\modulC#.exe
+C:\Users\Asus\source\repos\modulC#\modulC#\bin\Debug\net6.0\modulC#.deps.json
+C:\Users\Asus\source\repos\modulC#\modulC#\bin\Debug\net6.0\modulC#.runtimeconfig.json
+C:\Users\Asus\source\repos\modulC#\modulC#\bin\Debug\net6.0\modulC#.dll
+C:\Users\Asus\source\repos\modulC#\modulC#\bin\Debug\net6.0\modulC#.pdb
+C:\Users\Asus\source\repos\modulC#\modulC#\obj\Debug\net6.0\modulC#.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\modulC#\modulC#\obj\Debug\net6.0\modulC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\modulC#\modulC#\obj\Debug\net6.0\modulC#.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\modulC#\modulC#\obj\Debug\net6.0\modulC#.AssemblyInfo.cs
+C:\Users\Asus\source\repos\modulC#\modulC#\obj\Debug\net6.0\modulC#.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\modulC#\modulC#\obj\Debug\net6.0\modulC#.dll
+C:\Users\Asus\source\repos\modulC#\modulC#\obj\Debug\net6.0\refint\modulC#.dll
+C:\Users\Asus\source\repos\modulC#\modulC#\obj\Debug\net6.0\modulC#.pdb
+C:\Users\Asus\source\repos\modulC#\modulC#\obj\Debug\net6.0\modulC#.genruntimeconfig.cache
+C:\Users\Asus\source\repos\modulC#\modulC#\obj\Debug\net6.0\ref\modulC#.dll
