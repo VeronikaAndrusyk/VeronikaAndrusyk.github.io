@@ -1,4 +1,25 @@
-﻿using System;
+/* 
+List<Passenger> passengers = new List<Passenger>
+        {
+            new Passenger { LastName = "Johnson", Destination = "New York", BaggageCount = 2, TotalWeight = 20.5 },
+            new Passenger { LastName = "Smith", Destination = "Los Angeles", BaggageCount = 1, TotalWeight = 15.0 },
+            new Passenger { LastName = "Williams", Destination = "Chicago", BaggageCount = 3, TotalWeight = 45.0 },
+            new Passenger { LastName = "Jones", Destination = "New York", BaggageCount = 2, TotalWeight = 25.0 },
+            new Passenger { LastName = "Brown", Destination = "Miami", BaggageCount = 1, TotalWeight = 18.0 },
+            new Passenger { LastName = "Davis", Destination = "Los Angeles", BaggageCount = 2, TotalWeight = 22.5 },
+            new Passenger { LastName = "Miller", Destination = "New York", BaggageCount = 1, TotalWeight = 14.0 },
+            new Passenger { LastName = "Wilson", Destination = "Los Angeles", BaggageCount = 3, TotalWeight = 40.0 },
+            new Passenger { LastName = "Moore", Destination = "New York", BaggageCount = 2, TotalWeight = 23.5 },
+            new Passenger { LastName = "Taylor", Destination = "Los Angeles", BaggageCount = 1, TotalWeight = 16.0 }
+        };
+
+        string fileName = "Pasaghyr.json";
+        string jsonString = JsonSerializer.Serialize(passengers, new JsonSerializerOptions { WriteIndented = true });
+        File.WriteAllText(fileName, jsonString);
+
+        Console.WriteLine("JSON file created successfully.");
+*/
+using System;
 using System.IO;
 using System.Text.Json;
 using System.Collections.Generic;
