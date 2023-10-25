@@ -1,5 +1,5 @@
 <?php
-// Приклад даних студентів
+
 $students = array(
     array('id' => 1, 'name' => 'Іванов Іван', 'course' => 2, 'specialty' => 'Інформатика'),
     array('id' => 2, 'name' => 'Петров Петро', 'course' => 3, 'specialty' => 'Математика'),
