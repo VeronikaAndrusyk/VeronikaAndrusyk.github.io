@@ -19,8 +19,7 @@
 
         Console.WriteLine("JSON file created successfully.");
 
-Опція WriteIndented = true дозволяє додавати відступи та переноси рядків для полегшення читабельності створеного JSON-рядка.
- Цей рядок коду записує згенерований JSON-рядок у файл з ім'ям, яке було визначено у змінній fileName
+
  */
 
 using System;
@@ -30,19 +29,18 @@ using System.Collections.Generic;
 using System.Linq;
 using C_lab4;
 
-//використовую синхронний код для збереження даних у файл
+
 class Program
 {
     static void Main()
     {
        
         string fileName = "C:\\Users\\Asus\\OneDrive\\Робочий стіл\\C#\\C#lab4\\C#lab4\\Pasaghyr.json";
-        string jsonData = File.ReadAllText(fileName);//зчитування даних з створеного вже файлу 
-        List<Passenger> passengers = JsonSerializer.Deserialize<List<Passenger>>(jsonData);//це список пасажирів, який буде заповнений після десеріалізації JSON-рядка у список об'єктів
-        //JsonSerializer.Deserialize<List<Passenger>>(jsonData) - це метод,
-        //який перетворює JSON-рядок, що міститься у змінній jsonData, в об'єкт списку Passenger
+        string jsonData = File.ReadAllText(fileName); 
+        List<Passenger> passengers = JsonSerializer.Deserialize<List<Passenger>>(jsonData);
+        
         if (passengers != null)
-        {   //вирівнювання ліворуч і 15 символів
+        {   
             Console.WriteLine("{0,-15} {1,-15} {2,-25} {3,-15}", "Name", "Destination", "TotalWeightSeats", "totalWeight");
             foreach (var passenger in passengers)
             {
@@ -74,8 +72,7 @@ class Program
 
             double totalWeight2 = 0;
 
-            //цей цикл виконується у файлі. Він працює зі списком об'єктів passengers,
-            //який був створений після того, як програма зчитала та десеріалізувала дані з файлу "Pasaghyr.json"
+            
             foreach (var passenger in passengers)
             {
                 if (passenger.Destination.Equals(destinationInput2, StringComparison.OrdinalIgnoreCase))
