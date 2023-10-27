@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\templatesModule\templatesModule\bin\Debug\net6.0\templatesModule.exe
+C:\Users\Asus\source\repos\templatesModule\templatesModule\bin\Debug\net6.0\templatesModule.deps.json
+C:\Users\Asus\source\repos\templatesModule\templatesModule\bin\Debug\net6.0\templatesModule.runtimeconfig.json
+C:\Users\Asus\source\repos\templatesModule\templatesModule\bin\Debug\net6.0\templatesModule.dll
+C:\Users\Asus\source\repos\templatesModule\templatesModule\bin\Debug\net6.0\templatesModule.pdb
+C:\Users\Asus\source\repos\templatesModule\templatesModule\obj\Debug\net6.0\templatesModule.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\templatesModule\templatesModule\obj\Debug\net6.0\templatesModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\templatesModule\templatesModule\obj\Debug\net6.0\templatesModule.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\templatesModule\templatesModule\obj\Debug\net6.0\templatesModule.AssemblyInfo.cs
+C:\Users\Asus\source\repos\templatesModule\templatesModule\obj\Debug\net6.0\templatesModule.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\templatesModule\templatesModule\obj\Debug\net6.0\templatesModule.dll
+C:\Users\Asus\source\repos\templatesModule\templatesModule\obj\Debug\net6.0\refint\templatesModule.dll
+C:\Users\Asus\source\repos\templatesModule\templatesModule\obj\Debug\net6.0\templatesModule.pdb
+C:\Users\Asus\source\repos\templatesModule\templatesModule\obj\Debug\net6.0\templatesModule.genruntimeconfig.cache
+C:\Users\Asus\source\repos\templatesModule\templatesModule\obj\Debug\net6.0\ref\templatesModule.dll
