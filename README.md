@@ -1,4 +1,4 @@
-# sportsmanvue
+# appvue
 
 ## Project setup
 ```
