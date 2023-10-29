@@ -1,4 +1,4 @@
-# testgame1
+# sportsmanvue
 
 ## Project setup
 ```
