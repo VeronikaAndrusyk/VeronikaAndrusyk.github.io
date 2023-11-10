@@ -28,6 +28,9 @@ export default createStore({
     addDelivery(state, delivery) {
       state.deliveries.push(delivery);
     },
+    deleteProduct(state, index) {
+      state.products.splice(index, 1);
+    },
   },
   actions: {
     
