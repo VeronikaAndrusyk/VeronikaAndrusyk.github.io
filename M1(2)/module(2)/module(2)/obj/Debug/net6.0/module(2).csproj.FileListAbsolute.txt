@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\module(2)\module(2)\bin\Debug\net6.0\module(2).exe
+C:\Users\Asus\source\repos\module(2)\module(2)\bin\Debug\net6.0\module(2).deps.json
+C:\Users\Asus\source\repos\module(2)\module(2)\bin\Debug\net6.0\module(2).runtimeconfig.json
+C:\Users\Asus\source\repos\module(2)\module(2)\bin\Debug\net6.0\module(2).dll
+C:\Users\Asus\source\repos\module(2)\module(2)\bin\Debug\net6.0\module(2).pdb
+C:\Users\Asus\source\repos\module(2)\module(2)\obj\Debug\net6.0\module(2).csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\module(2)\module(2)\obj\Debug\net6.0\module(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\module(2)\module(2)\obj\Debug\net6.0\module(2).AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\module(2)\module(2)\obj\Debug\net6.0\module(2).AssemblyInfo.cs
+C:\Users\Asus\source\repos\module(2)\module(2)\obj\Debug\net6.0\module(2).csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\module(2)\module(2)\obj\Debug\net6.0\module(2).dll
+C:\Users\Asus\source\repos\module(2)\module(2)\obj\Debug\net6.0\refint\module(2).dll
+C:\Users\Asus\source\repos\module(2)\module(2)\obj\Debug\net6.0\module(2).pdb
+C:\Users\Asus\source\repos\module(2)\module(2)\obj\Debug\net6.0\module(2).genruntimeconfig.cache
+C:\Users\Asus\source\repos\module(2)\module(2)\obj\Debug\net6.0\ref\module(2).dll
