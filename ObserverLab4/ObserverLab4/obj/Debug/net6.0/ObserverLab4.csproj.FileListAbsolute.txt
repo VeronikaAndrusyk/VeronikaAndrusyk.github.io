@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\bin\Debug\net6.0\ObserverLab4.exe
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\bin\Debug\net6.0\ObserverLab4.deps.json
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\bin\Debug\net6.0\ObserverLab4.runtimeconfig.json
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\bin\Debug\net6.0\ObserverLab4.dll
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\bin\Debug\net6.0\ObserverLab4.pdb
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\obj\Debug\net6.0\ObserverLab4.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\obj\Debug\net6.0\ObserverLab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\obj\Debug\net6.0\ObserverLab4.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\obj\Debug\net6.0\ObserverLab4.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\obj\Debug\net6.0\ObserverLab4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\obj\Debug\net6.0\ObserverLab4.dll
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\obj\Debug\net6.0\refint\ObserverLab4.dll
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\obj\Debug\net6.0\ObserverLab4.pdb
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\obj\Debug\net6.0\ObserverLab4.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ObserverLab4\ObserverLab4\obj\Debug\net6.0\ref\ObserverLab4.dll
