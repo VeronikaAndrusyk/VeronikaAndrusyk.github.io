@@ -39,6 +39,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
+            "Telerik.DataAccess.Core": {
+              "target": "Package",
+              "version": "[2018.0.1127.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
