@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\bin\Debug\net6.0\templete_modul_2.exe
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\bin\Debug\net6.0\templete_modul_2.deps.json
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\bin\Debug\net6.0\templete_modul_2.runtimeconfig.json
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\bin\Debug\net6.0\templete_modul_2.dll
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\bin\Debug\net6.0\templete_modul_2.pdb
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\obj\Debug\net6.0\templete_modul_2.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\obj\Debug\net6.0\templete_modul_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\obj\Debug\net6.0\templete_modul_2.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\obj\Debug\net6.0\templete_modul_2.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\obj\Debug\net6.0\templete_modul_2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\obj\Debug\net6.0\templete_modul_2.dll
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\obj\Debug\net6.0\refint\templete_modul_2.dll
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\obj\Debug\net6.0\templete_modul_2.pdb
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\obj\Debug\net6.0\templete_modul_2.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Документи\шаблони\templete_modul_2\templete_modul_2\obj\Debug\net6.0\ref\templete_modul_2.dll
