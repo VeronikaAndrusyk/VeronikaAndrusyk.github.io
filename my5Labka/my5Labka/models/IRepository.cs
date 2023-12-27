@@ -9,6 +9,7 @@ namespace my5Labka.models
 {
     public interface IRepository<T>
     {
-        
+
+        IQueryable<T> GetAll();
     }
 }

@@ -1,24 +1,30 @@
 ﻿using my5Labka.models;
 using System;
 using System.Collections.Generic;
-//using System.Data.Entity.Core.Metadata.Edm;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace my5Labka.models
 {
     public class StudentsRepository : IRepository<Student>
     {
-        private SqlConnection Connection { get; set; }
+        private UniversityDb context;
 
-        public StudentsRepository(SqlConnection _connection)
+        public StudentsRepository()
         {
-            this.Connection = _connection;
+            this.context = new UniversityDb();
+            this.context.Database.EnsureCreated(); // Забезпечує створення бази даних (якщо не існує)
         }
 
-        
+        public IQueryable<Student> GetAll()
+        {
+            return this.context.Students.AsQueryable();
+        }
+
+
     }
 }
